@@ -42,3 +42,8 @@ ID,Name,DatahubID,Organisation,Beskrivning,Nyckelord,Licens,Tillgänglighetsgrad
 140,ENA,256,ENAs Datahubb,,webbsida,,öppen,Kontakta oss | Digg,2022-01-01,,Ena – Sveriges digitala infrastruktur | Digg,
 141,Enterprice Architect Installationsanvisning,84,Kronofogdemyndighetens Datahubb,,,,endast för KFM,KFM Verktygsstöd,,,https://github.kfm.rsv.se/verktyg/itverktyg/blob/master/Installation/EA/README.md,
 142,Geodataportalen,92,Lantmäteriets Datahubb,,"geodata, metadata, öppna data",,öppen,Kontakta oss | Lantmäteriet (lantmateriet.se),,,https://www.lantmateriet.se/sv/geodata/Geodataportalen/#anchor-0,
+143,Vägledning avseende användning av Chat-GPT,253,eSams Datahubb,,"LLM, molntjänster, chatgpt, vägledning, BARD",,öppen,Kontakt - eSamverka,2023-03-30,,https://www.esamverka.se/download/18.1d126bc174ad1e6c39c8d7/1598467568723/Behovsdriven%20utveckling%20-%20en%20v%C3%A4gledning%201.0.pdf,
+144,ChatGPT-guide,210,Statistiska centralbyråns Datahubb,,"chatgpt, vägledning",,öppen,Kontakta SCB:s Statistikservice,2023-03-30,,www.scb.se/guider/chatgpt.html,
+,"Hej, jag tog bort informationssäkerthetsklassnings beskrivning av misstag",,,,,,,,,,,
+,Jag håller på att importera den här fil i den poc applikation,,,,,,,,,,,
+,Informationsäkerthetsklassnings bör flyttas till en annan flik för att läsa den här fil rätt,,,,,,,,,,,
