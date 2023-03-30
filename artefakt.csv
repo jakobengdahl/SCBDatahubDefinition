@@ -1,0 +1,41 @@
+ID,Name,DatahubID,Organisation,Beskrivning,Nyckelord,Licens,Tillgänglighetsgrad,Kontaktväg,Skapat datum,Beroenden,Sökväg,Informationssäkerhetsklassning
+101,Instruktion för insamling,210,Statistiska centralbyråns Datahubb,,Vägledning,,öppen,Uppgiftslämnarservice (scb.se),2015-01-01,,Lämna uppgifter (scb.se),S1
+102,Koll på cashen,84,Kronofogdemyndighetens Datahubb,,Vägledning,,Öppen,info@kollpacashen.se,2022-02-15,,https://www.kollpacashen.se/,
+103,Myndighets Store för Atlassian-store.,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+104,PSUs projektlista,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+105,OCP överflygning,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+106,OCP Kickathon,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+107,Mobilfotofångst app,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+108,CI/CD-tools i Jenkins som,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+109,Frontend-komponenter,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+110,Designsystem,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+111,Hackaton-resultat,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+112,Myndighetens projektportfölj,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+113,"Utvecklingsmodeller, modeller för it-styrning",84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+114,Kundresor,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+115,Angular-komponenter,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+116,Web Components,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+117,Tillståndsmodell,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+118,xml/json-scheman för integration,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+119,informationsmodeller,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+120,processmodeller,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+121,Behörighetsstryrning,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+122,Behörighetsgranskning,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+124,externa SPS,210,Statistiska centralbyråns Datahubb,,"handledning, vägledning, statistikproduktion",,öppen,sps@scb.se,2022-04-01,,https://sps.scb.se/sites/vstod/statprod,S1
+126,registerportalen,210,Statistiska centralbyråns Datahubb,,"register, webbsida",,endast för SCB,registerdata@scb.se,2022-12-01,,http://verksamhetsstod/sites/arbetsytor/registerportalen/SitePages/V%C3%A4lkommen%20till%20informationssidan%20om%20register%20p%C3%A5%20SCB.aspx,S1
+127,scb.se dokumentation,210,Statistiska centralbyråns Datahubb,,"webbsida, dokumentation",,öppen,dokumentation@scb.se,2019-01-01,,https://scb.se/dokumentation/,S1
+128,klassifikationsdatabasen,210,Statistiska centralbyråns Datahubb,,"webbsida, applikation",,öppen,KDB@scb.se,2011-01-01,,https://metadata.scb.se/klassdb.aspx,S1
+129,TOP-desk,210,Statistiska centralbyråns Datahubb,,"webbsida, applikation",,endast för SCB,,2019-01-01,,https://topdesk.scb.intra/tas/public/ssp/,S3
+130,beställarportalen,210,Statistiska centralbyråns Datahubb,,"webbsida, applikation",,endast för SCB,ingen,2015-07-01,,https://bp.scb.intra/Store,S3
+131,inblick kurser informationssäkerhet,210,Statistiska centralbyråns Datahubb,,"utbildningsmaterial, informationssäkerhet, utbildningsmaterial",,endast för SCB,sakerhetsorganisationen@scb.se,2022-03-01,,https://inblick.scb.intra/scbs-verksamhet/Sakerhetsarbete/utbildning/informationssakerhet/,S1
+132,administrera behörigheter,210,Statistiska centralbyråns Datahubb,,"webbsida, service, behörighet",,endast för SCB,gpmweb@scb.se,2018-01-01,,http://gpmweb.scb.intra/#/auth,S3
+133,SSD,210,Statistiska centralbyråns Datahubb,,"webbsida, statistik",,öppen,Kontakta SCB:s Statistikservice,2007-01-01,,https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/,S1
+134,start,253,eSams Datahubb,,webbsida,,öppen,Kontakt - eSamverka,,,http://www.esamverka.se/,
+135,Vägledning E-legitimation och E-underskrift 1.1,253,eSams Datahubb,,vägledning,,öppen,Kontakt - eSamverka,,,https://www.esamverka.se/download/18.1d126bc174ad1e6c39ca2b/1598298292560/eSam%20-%20V%C3%A4gledning%20E-legitimation%20och%20E-underskrift%201.1.pdf,
+136,vägledning pseudonymisering,253,eSams Datahubb,,vägledning,,öppen,Kontakt - eSamverka,,,http://vip/projektstyrning/P2833/Temp/MicrosoftEdgeDownloads/b2b256ee-3ca0-48f3-b637-591360d7b0d9/ES2022-01%20V%25C3%25A4gledning%20Pseudonymisering%20av%20personuppgifter.pdf,
+137,vägledning innovation i en myndighet,253,eSams Datahubb,,vägledning,,öppen,Kontakt - eSamverka,,,http://vip/projektstyrning/P2833/Temp/MicrosoftEdgeDownloads/54040dd9-6600-4fb6-8eba-48466b5b16da/ES2022-07%20V%25C3%25A4gledning%20Innovation%20i%20en%20myndighet.pdf,
+138,checklista om molntjänster,253,eSams Datahubb,,checklista,,öppen,Kontakt - eSamverka,,,Checklista om molntjänster_2018.pdf,
+139,dataportal.se,256,ENAs Datahubb,,"webbsida, öppna data",,öppen,info@digg.se,,,Sveriges dataportal,
+145,Diggs öppna källkod på github,256,ENAs Datahubb,,"github, källkod",,öppen,,,Diggs designsystemspaket @digg/design-system,GitHub - diggsweden/dataportal-web: Källkod för dataportal.se,
+140,ENA,256,ENAs Datahubb,,webbsida,,öppen,Kontakta oss | Digg,2022-01-01,,Ena – Sveriges digitala infrastruktur | Digg,
+141,Enterprice Architect Installationsanvisning,84,Kronofogdemyndighetens Datahubb,,,,endast för KFM,KFM Verktygsstöd,,,https://github.kfm.rsv.se/verktyg/itverktyg/blob/master/Installation/EA/README.md,
