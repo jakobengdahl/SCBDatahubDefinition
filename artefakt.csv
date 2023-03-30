@@ -30,12 +30,15 @@ ID,Name,DatahubID,Organisation,Beskrivning,Nyckelord,Licens,Tillgänglighetsgrad
 131,inblick kurser informationssäkerhet,210,Statistiska centralbyråns Datahubb,,"utbildningsmaterial, informationssäkerhet, utbildningsmaterial",,endast för SCB,sakerhetsorganisationen@scb.se,2022-03-01,,https://inblick.scb.intra/scbs-verksamhet/Sakerhetsarbete/utbildning/informationssakerhet/,S1
 132,administrera behörigheter,210,Statistiska centralbyråns Datahubb,,"webbsida, service, behörighet",,endast för SCB,gpmweb@scb.se,2018-01-01,,http://gpmweb.scb.intra/#/auth,S3
 133,SSD,210,Statistiska centralbyråns Datahubb,,"webbsida, statistik",,öppen,Kontakta SCB:s Statistikservice,2007-01-01,,https://www.statistikdatabasen.scb.se/pxweb/sv/ssd/,S1
+143,Data som kärnprocess,210,Statistiska centralbyråns Datahubb,,"projekt, datadrivet, strategi",,öppen,,,,,S1
+144,Balsam,210,Statistiska centralbyråns Datahubb,,"projekt, bearbeta data, plattform, samverkan, analys",,öppen,,,,,S1
 134,start,253,eSams Datahubb,,webbsida,,öppen,Kontakt - eSamverka,,,http://www.esamverka.se/,
-135,Vägledning E-legitimation och E-underskrift 1.1,253,eSams Datahubb,,vägledning,,öppen,Kontakt - eSamverka,,,https://www.esamverka.se/download/18.1d126bc174ad1e6c39ca2b/1598298292560/eSam%20-%20V%C3%A4gledning%20E-legitimation%20och%20E-underskrift%201.1.pdf,
-136,vägledning pseudonymisering,253,eSams Datahubb,,vägledning,,öppen,Kontakt - eSamverka,,,http://vip/projektstyrning/P2833/Temp/MicrosoftEdgeDownloads/b2b256ee-3ca0-48f3-b637-591360d7b0d9/ES2022-01%20V%25C3%25A4gledning%20Pseudonymisering%20av%20personuppgifter.pdf,
-137,vägledning innovation i en myndighet,253,eSams Datahubb,,vägledning,,öppen,Kontakt - eSamverka,,,http://vip/projektstyrning/P2833/Temp/MicrosoftEdgeDownloads/54040dd9-6600-4fb6-8eba-48466b5b16da/ES2022-07%20V%25C3%25A4gledning%20Innovation%20i%20en%20myndighet.pdf,
-138,checklista om molntjänster,253,eSams Datahubb,,checklista,,öppen,Kontakt - eSamverka,,,Checklista om molntjänster_2018.pdf,
-139,dataportal.se,256,ENAs Datahubb,,"webbsida, öppna data",,öppen,info@digg.se,,,Sveriges dataportal,
-145,Diggs öppna källkod på github,256,ENAs Datahubb,,"github, källkod",,öppen,,,Diggs designsystemspaket @digg/design-system,GitHub - diggsweden/dataportal-web: Källkod för dataportal.se,
+135,Vägledning E-legitimation och E-underskrift 1.1,253,eSams Datahubb,,"vägledning, e-legitimation, autentisering",,öppen,Kontakt - eSamverka,,,https://www.esamverka.se/download/18.1d126bc174ad1e6c39ca2b/1598298292560/eSam%20-%20V%C3%A4gledning%20E-legitimation%20och%20E-underskrift%201.1.pdf,
+136,vägledning pseudonymisering,253,eSams Datahubb,,"vägledning, pseudonymisering",,öppen,Kontakt - eSamverka,,,http://vip/projektstyrning/P2833/Temp/MicrosoftEdgeDownloads/b2b256ee-3ca0-48f3-b637-591360d7b0d9/ES2022-01%20V%25C3%25A4gledning%20Pseudonymisering%20av%20personuppgifter.pdf,
+137,vägledning innovation i en myndighet,253,eSams Datahubb,,"vägledning, innovation",,öppen,Kontakt - eSamverka,,,http://vip/projektstyrning/P2833/Temp/MicrosoftEdgeDownloads/54040dd9-6600-4fb6-8eba-48466b5b16da/ES2022-07%20V%25C3%25A4gledning%20Innovation%20i%20en%20myndighet.pdf,
+138,checklista om molntjänster,253,eSams Datahubb,,"checklista, molntjänster",,öppen,Kontakt - eSamverka,,,Checklista om molntjänster_2018.pdf,
+139,dataportal.se,256,ENAs Datahubb,,"webbsida, öppna data",,öppen,info@digg.se,,entryscape.com/sv,Sveriges dataportal,
+145,Diggs öppna källkod på github,256,ENAs Datahubb,,"github, källkod, öppna data",,öppen,,,Diggs designsystemspaket @digg/design-system,GitHub - diggsweden/dataportal-web: Källkod för dataportal.se,
 140,ENA,256,ENAs Datahubb,,webbsida,,öppen,Kontakta oss | Digg,2022-01-01,,Ena – Sveriges digitala infrastruktur | Digg,
 141,Enterprice Architect Installationsanvisning,84,Kronofogdemyndighetens Datahubb,,,,endast för KFM,KFM Verktygsstöd,,,https://github.kfm.rsv.se/verktyg/itverktyg/blob/master/Installation/EA/README.md,
+142,Geodataportalen,92,Lantmäteriets Datahubb,,"geodata, metadata, öppna data",,öppen,Kontakta oss | Lantmäteriet (lantmateriet.se),,,https://www.lantmateriet.se/sv/geodata/Geodataportalen/#anchor-0,
