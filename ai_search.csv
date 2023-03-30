@@ -1,0 +1,12 @@
+ID,Name,DatahubID,Organisation,Beskrivning,Nyckelord,Licens,Tillgänglighetsgrad,Kontaktväg,Skapat datum,Beroenden,Sökväg,Informationssäkerhetsklassning
+107,Mobilfotofångst app,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+108,CI/CD-tools i Jenkins som,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+109,Frontend-komponenter,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+110,Designsystem,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+117,Tillståndsmodell,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+118,xml/json-scheman för integration,84,Kronofogdemyndighetens Datahubb,,,,,,,,,
+129,TOP-desk,210,Statistiska centralbyråns Datahubb,,"webbsida, applikation",,endast för SCB,,2019-01-01,,https://topdesk.scb.intra/tas/public/ssp/,S3
+130,beställarportalen,210,Statistiska centralbyråns Datahubb,,"webbsida, applikation",,endast för SCB,ingen,2015-07-01,,https://bp.scb.intra/Store,S3
+131,inblick kurser informationssäkerhet,210,Statistiska centralbyråns Datahubb,,"utbildningsmaterial, informationssäkerhet, utbildningsmaterial",,endast för SCB,sakerhetsorganisationen@scb.se,2022-03-01,,https://inblick.scb.intra/scbs-verksamhet/Sakerhetsarbete/utbildning/informationssakerhet/,S1
+136,vägledning pseudonymisering,253,eSams Datahubb,,vägledning,,öppen,Kontakt - eSamverka,,,http://vip/projektstyrning/P2833/Temp/MicrosoftEdgeDownloads/b2b256ee-3ca0-48f3-b637-591360d7b0d9/ES2022-01%20V%25C3%25A4gledning%20Pseudonymisering%20av%20personuppgifter.pdf,
+141,Enterprice Architect Installationsanvisning,84,Kronofogdemyndighetens Datahubb,,,,endast för KFM,KFM Verktygsstöd,,,https://github.kfm.rsv.se/verktyg/itverktyg/blob/master/Installation/EA/README.md,
